@@ -8,6 +8,7 @@
 6. [Lack - consensus implementation in Cassandra](https://github.com/datanerds-io/lack)
 7. [Java Micro](https://github.com/Sixt/java-micro)
 8. [Hazelcast Jet:In-Memory Streaming and Fast Batch Processing](http://jet.hazelcast.org/)
+9. [Java Libraries for 2017](http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/)
 
 
 ### Apache Kafka

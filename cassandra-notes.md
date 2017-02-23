@@ -9,3 +9,5 @@
     rpc_address: 10.X.X.X
     start_rpc: true
   ```
+###2. Bulk uploads
+[Yahoo Quotes](http://www.datastax.com/dev/blog/using-the-cassandra-bulk-loader-updated)

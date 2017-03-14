@@ -10,6 +10,7 @@
 8. [Hazelcast Jet:In-Memory Streaming and Fast Batch Processing](http://jet.hazelcast.org/)
 9. [Java Libraries for 2017](http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/)
 10. [Java Tutorials](https://github.com/eugenp/tutorials)
+11. [Ultimate logging Guide](https://www.loggly.com/ultimate-guide/java-logging-basics/)
 
 
 ### Apache Kafka

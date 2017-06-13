@@ -11,6 +11,7 @@
 9. [Java Libraries for 2017](http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/)
 10. [Java Tutorials](https://github.com/eugenp/tutorials)
 11. [Ultimate logging Guide](https://www.loggly.com/ultimate-guide/java-logging-basics/)
+12. [Create your own type 3 JDBC driver](http://www.javaworld.com/article/2074249/data-storage/create-your-own-type-3-jdbc-driver--part-1.html)
 
 
 ### Apache Kafka
